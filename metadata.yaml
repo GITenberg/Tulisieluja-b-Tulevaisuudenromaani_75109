@@ -1,0 +1,25 @@
+_repo: Tulisieluja-b-Tulevaisuudenromaani_75109
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harrar, Annie
+    gutenberg_agent_id: '57834'
+    url: http://www.gutenberg.org/2009/agents/57834
+description: ''
+gutenberg_issued: '2025-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75109'
+language: fi
+pgterms:marc905: 20241102015637harrar
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aJyväskylä :$bK. J. Gummerus Oy, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tulisieluja : $b Tulevaisuudenromaani'
+url: http://www.gutenberg.org/ebooks/75109
